@@ -1,5 +1,7 @@
 # filemaker-addons-reception-for-redmine
 
+![1024x1024](https://user-images.githubusercontent.com/8992239/111493396-da1f9a80-8780-11eb-83a4-e0fdf65cde22.png)
+
 # Support site > How to use / Reception for Redmine
 https://fm-add-ons.blogspot.com/p/for-redmine-reception-for-redmine.html
 
