@@ -15,3 +15,8 @@ https://fm-add-ons.blogspot.com/p/for-redmine-reception-for-redmine.html
 
 　The basic image of this workflow is the general reception and inquiry response process such as various application windows of organizations and groups, inquiry management from users, sales reports, and incident response. This kind of system is no longer rare in Web services, but FileMaker has the advantage that everything works on-premises, so for example, setting up a problem response window at the emergency response headquarters, needs at evacuation centers and opening a problem response window. , It is possible to respond to sudden system introduction requests in closed areas that are not connected to the Internet. You can quickly create a layout form that meets various needs with FileMaker, paste this add-on (reception for Redmine), enter information on the iPad, and the backyard staff will respond to the ticket-driven project management system (Redmine). Will be instantly registered, creating an instant reception system.
 
+# License
+
+Reception for Redmine by Takeshi Nakano
+Copyright © 2021 by Takeshi Nakano
+Released under The MIT license
