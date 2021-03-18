@@ -7,6 +7,8 @@ https://fm-add-ons.blogspot.com/p/for-redmine-reception-for-redmine.html
 
 # Overview
 
+![001](https://user-images.githubusercontent.com/8992239/111644426-2df2b800-8843-11eb-80f4-6739cd0d5bf8.png)
+
 This add-on provides the ability to collect information on a FileMaker screen and send the data to other services. With a few button presses (or calls from other scripts), the user can send data to a given destination or service. Users can post information from various layouts in FileMaker to a common receptionist.
 
 You may be thinking, "Why don't I just use FileMaker to build all my workflows without using other services? However, if you have been using communication tools for a long time, you may find it easier to use a familiar tool to accept applications and run the workflow in your backyard. What used to be a Word, Excel, or PDF file application can now be entered into the FileMaker layout, click on the application button, and it will flow to the receptionist, where the staff can click on the link to FileMaker and check the contents.
