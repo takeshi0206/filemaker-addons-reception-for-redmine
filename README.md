@@ -17,6 +17,8 @@ The three communication tools we targeted this time were Redmine, Slack, and eMa
 
 The basic image of this workflow is that of a general receptionist or inquiry handling workflow, such as various application windows for an organization or group, user inquiry management, sales reporting, and incident handling. This type of system is no longer uncommon with web services, but FileMaker has the advantage that everything can function on-premise. For example, the system can be used to set up an urgent response desk at an emergency headquarters, or a contact point for needs, issues, and requests at an evacuation center, or any other urgent system that is not connected to the Internet. You can quickly create input forms for various needs in FileMaker, paste in this add-on, and you have an instant reception system.
 
+![RfR](https://user-images.githubusercontent.com/8992239/111647365-c2f6b080-8845-11eb-9617-bfa8451d18ea.gif)
+
 # Administrator id and password
 
 - ID: admin
