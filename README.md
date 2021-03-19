@@ -19,6 +19,10 @@ The basic image of this workflow is that of a general receptionist or inquiry ha
 
 ![RfR](https://user-images.githubusercontent.com/8992239/111647365-c2f6b080-8845-11eb-9617-bfa8451d18ea.gif)
 
+# Download
+
+https://github.com/takeshi0206/filemaker-addons-reception-for-redmine/releases
+
 # Administrator id and password
 
 - ID: admin
