@@ -2,3 +2,5 @@
 * text=auto
 *.fp12 binary
 *.fp12 linguist-language=FileMaker
+* linguist-vendored
+*.fp12 linguist-vendored=false
