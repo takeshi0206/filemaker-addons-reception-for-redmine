@@ -1,5 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.fp12 binary
 *.fp12 linguist-language=FileMaker
 * linguist-vendored
 *.fp12 linguist-vendored=false
